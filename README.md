@@ -118,6 +118,14 @@
 </head>
 
 <h1>Pictures of an overlook of our Non Profit Organisation</h1>
+1.	Treatment Advocacy Center (2023) Serious mental illness and homelessness. Available at: https://www.tac.org/reports_publications/serious-mental-illness-and-homelessness/
+
+2.	CalMatters (2023) Study: California homelessness crisis. Available at: https://calmatters.org/commentary/2023/06/study-california-homelessness-crisis/
+
+3.	Regeneration Brampton (2024) How does homelessness affect the community? Available at: https://regenbrampton.com/how-does-homelessness-affect-the-community/
+
+4.	NL Times (2024) Amsterdam winter shelter opens amid growing need for homeless services. Available at: https://nltimes.nl/2024/12/01/amsterdam-winter-shelter-opens-amid-growing-need-homeless-services
+
 <body>
     <img src="_images/Picture1.jpg" alt="">
     <img src="_images/pic 1.jpg" alt="">
